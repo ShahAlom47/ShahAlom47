@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shah Alom</h1>
-<h3 align="center">A passionate MERN Stack Web Developer from the tech community of Bangladesh. Let's build something incredible together.</h3>
+<h3 align="center" style="margin-bottom: 30px;">A passionate MERN Stack Web Developer from the tech community of Bangladesh. Let's build something incredible together.</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRwNXdnZXhzcWI4c3licWUybGt6dzQ0N3V3YzF1cXplcDJoYXB1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" alt=""  align="right"  width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahalom47&label=Profile%20views&color=0e75b6&style=flat" alt="shahalom47" /> </p>
 
