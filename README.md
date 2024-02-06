@@ -26,10 +26,11 @@
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> </p>
-  <h1 align="left">--------------------------------</h1>
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahalom47&show_icons=true&locale=en&layout=compact" alt="shahalom47" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shahalom47&show_icons=true&locale=en" alt="shahalom47**" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahalom47&show_icons=true&locale=en&layout=compact" alt="shahalom47" /></p>
+<p>  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shahalom47&show_icons=true&locale=en" alt="shahalom47**" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahalom47&" alt="shahalom47" /></p>
