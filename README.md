@@ -1,9 +1,9 @@
-<img src="https://i.ibb.co/Y27Gcn3/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner"  align="right"  width="">
+<img src="https://i.ibb.co/Y27Gcn3/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner"  align="right"  width="100%">
 <h1 align="center">Hi 👋, I'm Shah Alom</h1>
 
 <h3 align="center" style="margin-bottom: 30px;">A passionate Front-End Web Developer from the tech community of Bangladesh. Let's build something incredible together.</h3>
 <h1 align="center">------------------------------------------------------------------</h1>
-<img src="https://i.ibb.co/1MmBZPc/code.gif" alt=""  align="right"  width="400">
+<img src="https://i.ibb.co/1MmBZPc/code.gif" alt=""  align="right"  width="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahalom47&label=Profile%20views&color=0e75b6&style=flat" alt="shahalom47" /> </p>
 
@@ -14,8 +14,7 @@
   <a href="https://www.facebook.com/sai.ami.393/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shah alom" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shah-alom-626322290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah alom" height="30" width="40" /></a>
 
-</p
-
+</p>
 
 
 
