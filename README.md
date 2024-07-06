@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Y27Gcn3/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner"  align="right"  width="100%">
+<img src="https://i.ibb.co/C6CS1K2/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" alt="banner"  align="right"  width="100%">
 <h1 align="center">Hi 👋, I'm Shah Alom</h1>
 
 <h3 align="center" style="margin-bottom: 30px;">A passionate Front-End Web Developer from the tech community of Bangladesh. Let's build something incredible together.</h3>
